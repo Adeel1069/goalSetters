@@ -84,6 +84,8 @@ h3 {
 
 .heading p {
   color: #828282;
+  font-weight: 500;
+  font-size: 28px;
 }
 
 .goals {
